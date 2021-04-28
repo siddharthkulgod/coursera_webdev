@@ -3,7 +3,7 @@
 }
 
 body{
-	background-color: #ffcccc;
+	background-color: #b5b5b5;
 }
 
 h1 {
@@ -17,7 +17,7 @@ section{
 }
 
 section>h2 {
-	background-color: #f8ff78;
+	background-color: #eeff52;
     float: right;
     border-bottom: 1px solid black;
     border-left: 1px solid black;
@@ -136,6 +136,12 @@ section>p {
     .col-md-12 {
         width: 100%;
     }
+
+    .Bulbasaur{
+    	position: absolute;
+    	width: 96%;
+    }
+
 }
 
 
